@@ -11,7 +11,9 @@ Arrayer innehåller många inbyggda metoder som är bra att bli kompis med. Nu s
 
 Gå nu igenom följande metoder, en i taget, så långt du hinner. Skapa en fil för varje. Skriv en **förklarande kommentar på svenska** och ge ett **kodexempel**.
 
-Du behöver antagligen kolla leta lite på nätet. *Men skriv egna kodexempel, kopiera inte!*
+Du behöver antagligen kolla leta lite på nätet. Förslagsvis kollar du på [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array#)
+
+*Men skriv egna kodexempel, kopiera inte!*
 
 ````
 2_indexOf.js        (gjort)
