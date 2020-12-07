@@ -9,7 +9,7 @@ Arrayer innehåller många inbyggda metoder som är bra att bli kompis med. Nu s
 
 ## Din uppgift
 
-Gå nu igenom följande metoder, en i taget, så långt du hinner. Skapa en fil för varje. Skriv en förklarande kommentar på svenska och ge ett kodexempel.
+Gå nu igenom följande metoder, en i taget, så långt du hinner. Skapa en fil för varje. Skriv en **förklarande kommentar på svenska** och ge ett **kodexempel**.
 
 Du behöver antagligen kolla leta lite på nätet. *Men skriv egna kodexempel, kopiera inte!*
 
